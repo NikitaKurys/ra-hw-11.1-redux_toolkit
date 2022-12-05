@@ -47,5 +47,6 @@
 
 
 
+[![Build status](https://ci.appveyor.com/api/projects/status/33j5gqu6jwaosie3/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ra-hw-11-1-redux-toolkit/branch/main)
 
-<a href="">Github Pages</a>
+<a href="https://nikitakurys.github.io/ra-hw-11.1-redux_toolkit/">Github Pages</a>
